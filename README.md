@@ -6,3 +6,4 @@ Git is great because:
 1. Hello
 1. You can share changes with your partner
 1. Instructors can review code without pictures of code on whatsapp
+1. You increase your employment chances
